@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **wilfred-wulbou/wilfred-wulbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Introduction
+Hi there, I'm Wilfred! I'm a software developer passionate about network security, web applications, IoT, and automation. I enjoy contributing to open-source projects and collaborating with the community to bring ideas to life. Let’s connect and build something awesome together!
+
+## 🚀 Project Highlights
+- [HG532d-RCE-Exploit](https://github.com/wilfred-wulbou/HG532d-RCE-Exploit)
+- [Intrusion Detection System](https://github.com/wilfred-wulbou/Intrusion-Detection-System)
+
+## 🌍 Open source contribution
+- [feat(chart): Added Papua New Guinea to countries map](https://github.com/apache/superset/pull/22589)
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/wilfred-wulbou/)
